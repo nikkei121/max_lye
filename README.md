@@ -13,7 +13,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://raw.githubusercontent.com/nikkei121/max_lye/main/images/Profile.jpg)
+![alt text](https://raw.githubusercontent.com/nikkei121/max_lye/main/images/Profile_small.jpg)
 
 <!-- Add your details -->
 
