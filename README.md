@@ -13,7 +13,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](img src= "https://raw.githubusercontent.com/nikkei121/max_lye/main/images/H%26S%20shot%20LMY.jpeg" height="250" width="250")
+![alt text](https://raw.githubusercontent.com/nikkei121/max_lye/main/images/H%26S%20shot%20LMY.jpeg)
 
 <!-- Add your details -->
 
