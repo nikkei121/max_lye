@@ -17,7 +17,8 @@
 
 <!-- Add your details -->
 
-I am __Kumar Vishwesh__, a seasoned data scientist with ~7 years of progressive experience in artificial intelligence. I have contributed as an AI product developer (R&D unit) and been AI consultant for top-notch clients in their AI journey. I am involved in comprehensive development, design & analysis of AI algorithms to build analytical solutions, while facilitating and leading data science teams.
+I am __Max Lye__, a seasoned investment professional with ~15 years of progressive experience in strategic investments. With more than a decade of experience with a MNC as a Senior Strategy and Business Development Manager, I acted as internal consultant for operations, investment and restructuring. Subseqently I moved on to OCBC Wearnes Walden Capital as the Director of Fund III where I managed a fund size of about S$100 Million. I've also worked in a portfolio company which is a leader in IoT software and Smart City technologies.
+I have the full gamut of experience from for Strategy Development and Investments, both of which are essential to develop the right insights to deal viability and success factors. 
 
 
 <!-- Add link to the sections -->
@@ -84,3 +85,5 @@ Machine Learning by Columbia University
 ##### Achievements
 Star performer of the year at Accenture
 <!-- FEATURED Section Ends -->
+
+
